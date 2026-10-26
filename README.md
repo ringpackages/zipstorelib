@@ -25,6 +25,11 @@ It requires no external dependencies and works on Windows, Linux, and macOS.
 
 	ringpm install zipstorelib from ringpackages
 
+## Screen Shot
+
+![Screen Shot 1](https://raw.githubusercontent.com/ringpackages/zipstorelib/main/images/zipstorelib_shot1.png)
+
+
 ## Quick Start
 
 ### Create a ZIP File
