@@ -1,0 +1,1 @@
+load "../../libraries/zipstorelib/zipstorelib.ring"
