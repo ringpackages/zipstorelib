@@ -2,6 +2,8 @@
 
 ## Overview
 
+ZipStoreLib package for the Ring programming language
+
 ZipStoreLib is a pure Ring library for merging files into ZIP archives without compression, and for reading and extracting them.
 
 Entries are written with the ZIP **Stored** method (method 0): file content is copied into the archive as is. This keeps the library small and fast, and the archives open in every ZIP tool, including Windows Explorer, 7-Zip, macOS Archive Utility, and Microsoft Office (for `.docx`, `.xlsx` and `.pptx` packages).
